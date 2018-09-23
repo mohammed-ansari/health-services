@@ -1,4 +1,4 @@
-# health-services
+# patient-services
 This project contains patient appointment scheduling services
 
 # To setup node js, please refer below url:
