@@ -1,0 +1,22 @@
+{
+  "name": "health-services",
+  "version": "1.0.0",
+  "description": "This project contains patient appointment scheduling services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohammed-ansari/health-services.git"
+  },
+  "author": "Mohammed Ansari",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.316.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "uuid": "^3.3.2"
+  }
+}
